@@ -28,3 +28,11 @@ Customer segmentation project using RFM (Recency, Frequency, Monetary) analysis 
 * Customer Segmentation Result
 * Cluster Summary
 * Excel Export
+
+## Elbow Method
+
+![Elbow Method](images/elbow_method.png)
+
+## Customer Segmentation
+
+![Customer Segmentation](images/customer_segmentation.png)
